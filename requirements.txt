@@ -1,0 +1,5 @@
+roboflow
+opencv-python
+numpy
+inference
+python-dotenv
